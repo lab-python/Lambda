@@ -1,0 +1,30 @@
+
+What are Microservices?
+
+
+What are microservices? Let’s break down the word: “micro” (extremely small) + 
+service. A microservice is a small, lightweight, and isolated service that works 
+independently to perform a single function within an application. What are the core 
+components of a microservice?
+
+
+1. Autonomous: Each component service is independent: development, deployment, 
+   operation, and scaling. Services do not share code.
+
+2. Connected via API: Each component communicates with other components via API.
+
+3. Specialized: Each component is designed to do one thing and to do that one thing
+   well, making microservices the “experts” at their service.
+
+
+When we ask what microservices mean, we are talking about these individual service 
+components and the approach to software development (often for the cloud) that
+embraces a microservices approach.
+
+
+Individual microservices could include search, payment, cart, accounts, loyalty, 
+notification, and more while building an app. These microservice components allow 
+developers to build applications that are flexible to change – simply swap components
+– and quick to develop since services can be integrated off-the-shelf or concurrently
+developed by different team members.
+
